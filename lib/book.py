@@ -35,3 +35,6 @@ class Book:
     # tells user the total page count / book length
     def display_page_count(self):
         print(f"This book has {self.page_count} pages.")
+
+
+        
