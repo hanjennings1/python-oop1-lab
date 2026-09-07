@@ -28,4 +28,4 @@ pytest lib/testing/coffee_test.py
 ```
 
 ### Screenshot
-![Completed Book and Coffee classes passing all tests](./book-coffee-oop-lab.png)
+![Screenshot of Lab](./book-coffee-oop-lab.png)
